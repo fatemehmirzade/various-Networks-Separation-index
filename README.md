@@ -28,3 +28,12 @@ First Order SI: This branch likely deals with first-order statistics or moments 
 SI Anti (2): This branch may involve some form of anti-symmetric transformation or operation applied to the input features, potentially enhancing discriminative information or reducing redundancy.
 
 In summary, these components collectively signify a comprehensive approach to constructing and evaluating neural network models tailored to the Fashion MNIST dataset, incorporating diverse architectures and techniques for feature extraction and classification.
+
+Accuracy and separation index of ResNet18
+![image](https://github.com/fmirzadeh99/various-Networks-Separation-index/assets/169579231/9c8408de-ab0e-4357-8ad3-e05b0ae553e5)
+
+
+Accuracy and separation index of EfficientnetB0
+![image](https://github.com/fmirzadeh99/various-Networks-Separation-index/assets/169579231/5b2d6e35-f8a2-4984-bd0c-6ba18dfe9671)
+
+
